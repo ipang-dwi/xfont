@@ -1,4 +1,7 @@
 # xfont
+
+<img src="https://img.shields.io/github/license/ipang-dwi/xdesktop.svg" /> <img src="https://img.shields.io/badge/lab-firstplato.com-red.svg" />
+
 My collection fonts for terminal and IDE, that best suit for programming. Actually I was used gedit, vscode and sublime code editor - www.firstplato.com
 
 Just download or clone this repo, and just copy the font to the in /home/user/.fonts folder 
