@@ -1,5 +1,5 @@
 # xfont
-My collection fonts for terminal and IDE, that best suit for programming. Actually I was used gedit, vscode and sublime - www.firstplato.com
+My collection fonts for terminal and IDE, that best suit for programming. Actually I was used gedit, vscode and sublime code editor - www.firstplato.com
 
 Just download or clone this repo, and just copy the font to the in /home/user/.fonts folder 
 
